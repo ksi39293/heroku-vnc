@@ -41,6 +41,7 @@ RUN set -ex; \
 	fonts-wqy-microhei \  
 	ibus-pinyin \
 	ibus \
+	python3-shodan \
 	ibus-clutter \
 	ibus-gtk \
 	ibus-gtk3 \
