@@ -42,7 +42,6 @@ RUN set -ex; \
 	ibus-pinyin \
 	ibus \
 	python3-pip \
-	python3-shodan \
 	ibus-clutter \
 	ibus-gtk \
 	ibus-gtk3 \
